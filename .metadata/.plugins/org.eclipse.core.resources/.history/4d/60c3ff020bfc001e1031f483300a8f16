@@ -1,0 +1,6 @@
+package homeworkShape;
+
+public class dot {
+	public int x;
+	public int y;
+}
