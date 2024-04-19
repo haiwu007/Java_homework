@@ -33,7 +33,7 @@ src：源码
 | planeShape_main       | 作业4main入口函数，可使用命令行设置参数，生成对应shape并获取所需的参数 |
 | solidShape_main       | 作业5main入口函数，可使用命令行设置参数，生成对应shape并获取所需的参数 |
 
- 
+ github作业项目地址：[haiwu007/Java_homework: repository for my java lesson bupt 2024 (github.com)](https://github.com/haiwu007/Java_homework)
 
  
 
