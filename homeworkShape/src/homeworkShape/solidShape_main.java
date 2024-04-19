@@ -30,6 +30,7 @@ public class solidShape_main {
                 .println(
                         "\tcone <height> <radius>\t\tSet shape as cone using height and radius.");
         System.out.println("\tsphere <radius>\t\t\tSet shape as sphere using radius.");
+        System.out.println(CMDGET + " volume | surfaceArea\tGet volume or surfaceArea of the shape set before.Must be used after -set!!!!!!");
         System.out.println(CMDEXIT + "\t\tExit.");
 
         return;

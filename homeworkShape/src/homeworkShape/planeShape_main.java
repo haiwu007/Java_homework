@@ -33,6 +33,7 @@ public class planeShape_main {
                         "\ttriangle <edgelength> | <x> <y>\t\tSet shape as triangle using 3 edgelength or three point.");
         System.out.println("\tsquare <edgelength>\t\t\tSet shape as square using edgelength.");
         System.out.println("\tpentagon <edgelength>\t\t\tSet shape as pentagon using edgelength.");
+        System.out.println(CMDGET + " area | circumference\tGet volume or surfaceArea of the shape set before.Must be used after -set!!!!!!");
         System.out.println(CMDEXIT + "\t\tExit.");
 
         return;
