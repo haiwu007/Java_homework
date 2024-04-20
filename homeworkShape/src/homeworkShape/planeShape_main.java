@@ -122,7 +122,7 @@ public class planeShape_main {
                     System.out.println("app exit.");
                     return;
                 default:
-                    System.out.println("unknown command.");
+                    System.out.println("unknown command. Use \"-help\" for help");
                     break;
             }
         }

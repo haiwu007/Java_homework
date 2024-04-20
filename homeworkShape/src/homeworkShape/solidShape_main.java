@@ -74,10 +74,10 @@ public class solidShape_main {
         String data = sc.next();
         switch (data) {
             case "volume":
-                System.out.println("area is : " + shape.getVolume());
+                System.out.println("volume is : " + shape.getVolume());
                 break;
             case "surfaceArea":
-                System.out.println("circumference is : " + shape.getSurfaceArea());
+                System.out.println("surfaceArea is : " + shape.getSurfaceArea());
                 break;
             default:
                 System.err.println("unknown target.");
@@ -104,7 +104,7 @@ public class solidShape_main {
                     System.out.println("app exit.");
                     return;
                 default:
-                    System.out.println("unknown command.");
+                    System.out.println("unknown command. Use \"-help\" for help");
                     break;
             }
         }
