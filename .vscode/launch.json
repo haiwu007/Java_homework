@@ -1,0 +1,52 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ipChk",
+            "request": "launch",
+            "mainClass": "homework511/homework511.ipChk",
+            "projectName": "homework511",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "dateTrans",
+            "request": "launch",
+            "mainClass": "homework511/homework511.dateTrans",
+            "projectName": "homework511",
+            "args": "July 30,1981"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "stringCount",
+            "request": "launch",
+            "mainClass": "homework511/homework511.stringCount",
+            "projectName": "homework511",
+            "args": "abcdABCD"
+        },
+        {
+            "type": "java",
+            "name": "planeShape_main",
+            "request": "launch",
+            "mainClass": "homeworkShape/homeworkShape.planeShape_main",
+            "projectName": "homeworkShape"
+        },
+        {
+            "type": "java",
+            "name": "solidShape_main",
+            "request": "launch",
+            "mainClass": "homeworkShape/homeworkShape.solidShape_main",
+            "projectName": "homeworkShape"
+        }
+    ]
+}
